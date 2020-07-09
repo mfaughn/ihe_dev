@@ -3,6 +3,8 @@ IHE Devices Domain (DEV) technical framework (TF) supplement work products that 
 
 This folder contains all the work products related to the Personal Health Device Observation Upload (POU) IHE DEV TF profile supplement.
 
-NOTE:  Supplement revisions should also be supported until the trial implementation (TI) versions have been converted to final text (FT) and integrated into the IHE DEV TF.
+NOTEs:  
+1. Supplement revisions should also be supported until the trial implementation (TI) versions have been converted to final text (FT) and integrated into the IHE DEV TF.
+2. Supplement-specific GitHub repositories contain the pre-public development artifacts for each supplement.  They get moved here to the DEV domain when versions are circulated for comment and publication.
 
 Note:  Though this was originally modeled after the IHE FTP site, the folder structure for each supplement may evolve as the development processes evolve.
