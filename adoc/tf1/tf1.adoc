@@ -1,6 +1,6 @@
 = TF3
 :toc: left
-:showtitle!
+:showtitle!:
 
 *Integrating the Healthcare Enterprise*
 
